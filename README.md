@@ -10,4 +10,4 @@ Get summary of any paragraph just input the text to be summarised and give ur op
 * Create a virtual environment using `python -m venv <name-of-your-env>`
 * Activate the environment
 * pip install the requirements from requiremenrs.txt file
-* To run the Streamlit_app.py file use command  streamlit run main.py
+* To run the Streamlit_app.py file use command  streamlit run Streamlit_app.py
